@@ -1,4 +1,4 @@
-This is an incomplete version of a script I wrote in my 2nd year. 
+This is an incomplete version of a script I wrote in my 2nd year of college. 
 
 It takes in data sets (in .tif format) containing individual pictures of beads obtained from my colleague's Optical Tweezer research. 
 
